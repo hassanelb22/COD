@@ -186,6 +186,6 @@ else:
 st.markdown("""
 <div class="footer">
     Created with <span style="color: #f43f5e;">♥</span> by 
-    <a href="https://x.com/hassanelb" target="_blank">@hassanelb</a>
+    <a href="#" target="_blank">@hassanelb</a>
 </div>
 """, unsafe_allow_html=True)
